@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<form>
+    <fields name="params">
+        <fieldset addfieldpath="/administrator/components/com_fabrik/models/fields" name="plg-element-form_json" label="COM_FABRIK_OPTIONS">
+            <field name="form_json_list_fields_table"
+                   label="PLG_FABRIK_ELEMENT_FORM_JSON_TABLES_LABEL"
+                   key="name"
+                   type="tables"
+            />
+        </fieldset>
+    </fields>
+
+</form>
